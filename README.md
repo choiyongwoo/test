@@ -11,7 +11,6 @@
 ![architecture](https://github.com/choiyongwoo/test/assets/50268222/ea3e4f9c-3451-42d8-b07f-5e50ef315068)<br>
 
 ## Result
-결과 이미지는 output.jpg처럼 나왔다. <br>
 ![output](https://github.com/choiyongwoo/test/assets/50268222/039d065b-3950-467e-a31d-471fdf0b17e1)
 
 ## Reference
