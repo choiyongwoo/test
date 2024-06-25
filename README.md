@@ -8,7 +8,6 @@
 데이터는 0\~9의 숫자 이미지로 이루어진 MNIST train 6만장 test 3만장으로 사용하였다. 
 
 ## Architecture
-전체 설계도는 architecture.jpg로 만들었다.<br>
 ![architecture](https://github.com/choiyongwoo/test/assets/50268222/ea3e4f9c-3451-42d8-b07f-5e50ef315068)<br>
 
 ## Result
